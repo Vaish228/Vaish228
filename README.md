@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Vaishnavi 👋
 
 <!--
 **Vaish228/Vaish228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaish228)](https://github.com/Vaish228/github-readme-stats)
